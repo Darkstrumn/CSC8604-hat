@@ -1,0 +1,25 @@
+{
+  "name": "CSC8604-hat",
+  "version": "1.0.0",
+  "description": "Node Project for the [Sense HAT on the Raspberry Pi] (https://www.raspberrypi.org/products/sense-hat/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chowyunbrent/CSC8604-hat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chowyunbrent/CSC8604-hat/issues"
+  },
+  "homepage": "https://github.com/chowyunbrent/CSC8604-hat#readme",
+  "dependencies": {
+    "ioctl": "^2.0.1",
+    "nodeimu": "^2.1.9",
+    "sense-hat-led": "^1.0.1"
+  }
+}
