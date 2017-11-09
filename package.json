@@ -20,6 +20,7 @@
   "dependencies": {
     "ioctl": "^2.0.1",
     "nodeimu": "^2.1.9",
+    "rpi-sense-hat-keys": "0.0.1",
     "sense-hat-led": "^1.0.1"
   }
 }
