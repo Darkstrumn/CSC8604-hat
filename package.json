@@ -19,6 +19,7 @@
   "homepage": "https://github.com/chowyunbrent/CSC8604-hat#readme",
   "dependencies": {
     "ioctl": "^2.0.1",
+    "noble": "^1.8.1",
     "nodeimu": "^2.1.9",
     "rpi-sense-hat-keys": "0.0.1",
     "sense-hat-led": "^1.0.1"
